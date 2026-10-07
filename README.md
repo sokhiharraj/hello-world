@@ -1,4 +1,4 @@
-# Claude Code Git Repo
+    # Claude Code Git
 My first GitHub repository
 
 Hello Humans
